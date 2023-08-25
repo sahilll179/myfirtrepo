@@ -8,3 +8,9 @@ h1{
     text-shadow: 40px;
     background-color: limegreen;
 }
+div{
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+    
+}
